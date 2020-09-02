@@ -1,0 +1,121 @@
+About Gartner. (n.d.). Retrieved May 18, 2020, from Gartner website: https://www.gartner.com/en/about
+Akhilesh, B., & Sudha, R. (2003). IAIS: A methodology to enable interagency information sharing in e-Government. Journal of Database Management, 14, 59–80.
+Al-Busaidi, K. A., & Olfman, L. (2017). Knowledge sharing through inter-organizational knowledge sharing systems. VINE Journal of Information and Knowledge Management Systems, 47, 110–136.
+Allen, D. K., Karanasios, S., & Norman, A. (2014). Information sharing and interoperability: The case of major incident management. European Journal of Information Systems, 23, 418–432.
+AS 4590—Address details data dictionary. (n.d.). Retrieved June 16, 2020, from https://meteor.aihw.gov.au/content/index.phtml/itemId/434713
+Atabakhsh, H., Larson, C., Petersen, T., Violette, C., & Chen, H. (2004). Information sharing and collaboration policies within government agencies. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 3073, 467–475.
+Bekkers, V. (2007). The governance of back-office integration: Organizing co-operation between information domains. Public Management Review, 9, 377–400.
+Bekkers, V. (2009). Flexible information infrastructures in Dutch E-Government collaboration arrangements: Experiences and policy implications. Government Information Quarterly, 26, 60–68.
+Bekkers, V., & Homburg, V. (2007). The Myths of E-Government: Looking Beyond the Assumptions of a New and Better Government. The Information Society, 23, 373–382.
+BioSense Platform | NSSP | CDC. (n.d.). Retrieved April 16, 2020, from https://www.cdc.gov/nssp/biosense/index.html
+Blum, N., Yamada, J., Uchida, N., & Magedanz, T. (2011). Enabling information push for network- and device-agnostic internet services. 2011 15th International Conference on Intelligence in Next Generation Networks, 225–230.
+Bose, S., & Rashel, M. R. (2007). Implementing e-governance using oecd model (modified) and gartner model (modified) upon agriculture of Bangladesh. 2007 10th International Conference on Computer and Information Technology, 1–5. Dhaka, Bangladesh: IEEE.
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3, 77–101.
+Braun, V., Clarke, V., Hayfield, N., & Terry, G. (2019). Thematic Analysis. In P. Liamputtong (Ed.), Handbook of Research Methods in Health Social Sciences (pp. 843–860). Singapore: Springer.
+Brazelton, J., & Gorry, G. A. (2003). Creating a knowledge-sharing community: If you build it, will they come? Communications of the ACM, 46, 23–25.
+Cai, H., Xu, B., Jiang, L., & Vasilakos, A. V. (2017). IoT-Based Big Data Storage Systems in Cloud Computing: Perspectives and Challenges. IEEE Internet of Things Journal, 4, 75–87.
+Caudle, S. L., Gorr, W. L., & Newcomer, K. E. (1991). Key Information Systems Management Issues for the Public Sector. MIS Quarterly, 15, 171.
+Chen, Bin. (2008). Assesing Interorganizational Networks for Public Service Delivery: A Process-Perceived Effectiveness Framework. Public Performance & Management Review, 31, 348–363.
+Chen, Bo, & Curtmola, R. (2014). Auditable Version Control Systems. NDSS.
+Chen, Y.-C., Hu, L.-T., Tseng, K.-C., Juang, W.-J., & Chang, C.-K. (2019). Cross-boundary e-government systems: Determinants of performance. Government Information Quarterly, 36, 449–459.
+CluedIn. (n.d.). Retrieved August 15, 2019, from https://www.cluedin.net/
+Coronavirus. (n.d.). Retrieved June 29, 2020, from https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+Creative Commons Australia. (2010, July 23). Retrieved June 16, 2020, from Creative Commons Australia website: https://creativecommons.org.au/learn/licences/
+Creswell, J. W. (2009). Research design: Qualitative, quantitative, and mixed methods approaches (3rd ed). Thousand Oaks, Calif: Sage Publications.
+da Rocha, R. C. A., & Endler, M. (2006). Middleware: Context management in heterogeneous, evolving ubiquitous environments. IEEE Distributed Systems Online, 7, 1–1.
+Dalrymple, A. J., Lahti, L. S., Hutchinson, L. J., & O’Doherty, J. J. (1994). Record linkage in a regional mental health planning study: Accuracy of unique identifiers, reliability of sociodemographics, and estimating identification error. The Journal of Mental Health Administration, 21, 185–192.
+Data Integration Partnership for Australia [Text]. (2017, August 29). Retrieved June 16, 2020, from https://www.pmc.gov.au/public-data/data-integration-partnership-australia
+Dawes, S. (1996). Interagency information sharing: Expected benefits, manageable risks. Journal of Policy Analysis and Management, 15, 377–394.
+Dawes, S. (2008). Introduction to digital government research in public policy and management. In Digital Government (pp. 103–125). Springer.
+Dawes, S., Cresswell, A. M., & Pardo, T. A. (2009). From “Need to Know” to “Need to Share”: Tangled Problems, Information Boundaries, and the Building of Public Sector Knowledge Networks. Public Administration Review, 69, 392–402.
+Dawes, S., Pardo, T. A., Simon, S., Cresswell, A. M., LaVigne, M. F., Andersen, D. F., & Bloniarz, P. A. (2004). Making smart IT choices: Understanding value and risk in government IT investments. The Center.
+Dick, J., Hull, E., & Jackson, K. (2017). Requirements Engineering. Cham: Springer International Publishing.
+Drake, D. B., Steckler, N. A., & Koch, M. J. (2004). Information Sharing in and Across Government Agencies: The Role and Influence of Scientist, Politician, and Bureaucrat Subcultures. Social Science Computer Review, 22, 67–84.
+Enamorado, T., Fifield, B., & Imai, K. (2018). Online Supplementary Information for “Using a Probabilistic Model to Assist Merging of Large-scale Administrative Records.”
+Fan, B., Liu, R., Huang, K., & Zhu, Y. (2019). Embeddedness in cross-agency collaboration and emergency management capability: Evidence from Shanghai’s urban contingency plans. Government Information Quarterly, 36, 101395.
+Fedorowicz, J., Gogan, J. L., & Williams, C. B. (2007). A collaborative network for first responders: Lessons from the CapWIN case. Government Information Quarterly, 24, 785–807.
+Gang Xiong, Gang-Yu Xiong, Litokorpi, A., & Nyberg, T. R. (2001). Middleware-based solution for enterprise information integration. ETFA 2001. 8th International Conference on Emerging Technologies and Factory Automation. Proceedings (Cat. No.01TH8597), 2, 687–690 vol.2.
+Gartner Research: Cool Vendors In Data Management. (n.d.). Retrieved May 18, 2020, from https://info.tigergraph.com/gartner-cool-vendor-2020
+General Data Protection Regulation (GDPR) – Official Legal Text. (n.d.). Retrieved June 16, 2020, from General Data Protection Regulation (GDPR) website: https://gdpr-info.eu/
+Gil-Garcia, J. R. (2012). Towards a smart State? Inter-agency collaboration, information integration, and beyond. Information Polity, 17, 269–280.
+Gil-Garcia, J. R., Chengalur-Smith, I., & Duchessi, P. (2007). Collaborative e-Government: Impediments and benefits of information-sharing projects in the public sector. European Journal of Information Systems, 16, 121–133.
+Gil-Garcia, J. R., Guler, A., Pardo, T. A., & Burke, G. B. (2010). Trust in Government Cross-Boundary Information Sharing Initiatives: Identifying the Determinants. 2010 43rd Hawaii International Conference on System Sciences, 1–10. Honolulu, Hawaii, USA: IEEE.
+Gil-Garcia, J. R., & Martinez-Moyano, I. J. (2007). Understanding the evolution of e-government: The influence of systems of rules on public sector dynamics. Government Information Quarterly, 24, 266–290.
+Gil-Garcia, J. R., & Pardo, T. A. (2005). E-government success factors: Mapping practical tools to theoretical foundations. Government Information Quarterly, 22, 187–216.
+Gil-Garcia, J. R., & Sayogo, D. S. (2016). Government inter-organizational information sharing initiatives: Understanding the main determinants of success. Government Information Quarterly, 33, 572–582.
+Goo, J., Kishore, R., Rao, H. R., & Nam, K. (2009). The role of service level agreements in relational management of information technology outsourcing: An empirical study. MIS Quarterly, 119–145.
+Hartig, O., & Pérez, J. (2018). Semantics and complexity of GraphQL. Proceedings of the 2018 World Wide Web Conference, 1155–1164.
+Hasselbring, W. (2000). Information system integration. Communications of the ACM, 43, 32–38.
+Help Center | Blog—Otter.ai. (n.d.). Retrieved May 24, 2020, from Blogs—Otter.ai website: https://blog.otter.ai/help-center/
+Hodgson, G. M. (2006). What Are Institutions? Journal of Economic Issues, 40, 1–25.
+Hollywood, J. S., & Winkelman, Z. (2015). Improving Information-Sharing Across Law Enforcement: Why Can’t We Know? In Improving Information-Sharing Across Law Enforcement: Why Can’t We Know? (pp. 1–32). RAND Corporation. JSTOR.
+Hovy, E. (2008). Data and Knowledge Integration for e-Government.
+Jabareen, Y. (2009). Building a Conceptual Framework: Philosophy, Definitions, and Procedure. International Journal of Qualitative Methods, 8, 49–62.
+Janssen, M., Charalabibis, Y., Kuk, G., & Cresswell, T. (2011). E-government Interoperability, Infrastructure and Architecture: State-of-the-art and Challenges. Journal of Theoretical and Applied Electronic Commerce Research, 6, I–VIII.
+Janssen, M., & van den Hoven, J. (2015). Big and Open Linked Data (BOLD) in government: A challenge to transparency and privacy? Government Information Quarterly, 32, 363–368.
+JSON vs XML in 2020: Comparison, Features & Example. (n.d.). Retrieved April 14, 2020, from Hackr.io website: https://hackr.io/blog/json-vs-xml
+Klievink, B., & Janssen, M. (2008). Stage models for creating joined-up government: From local to nation-wide integration. Proceedings of the 2008 International Conference on Digital Government Research, 117–123. Montreal, Canada: Digital Government Society of North America.
+Klievink, B., & Janssen, M. (2009). Realizing joined-up government—Dynamic capabilities and stage models for transformation. Government Information Quarterly, 26, 275–284.
+Klischewski, R. (2004). Information Integration or Process Integration? How to Achieve Interoperability in Administration. In R. Traunmüller (Ed.), Electronic Government (Vol. 3183, pp. 57–65). Berlin, Heidelberg: Springer Berlin Heidelberg.
+Koltay, T. (2016). Data governance, data literacy and the management of data quality. IFLA Journal, 42, 303–312.
+Landsbergen, D., & Wolken, G. (2001). Realizing the Promise: Government Information Systems and the Fourth Generation of Information Technology. Public Administration Review, 61, 206–220.
+Layne, K., & Lee, J. (2001). Developing fully functional E-government: A four stage model. Government Information Quarterly, 18, 122–136.
+Li, C., Jin, L., & Mehrotra, S. (2006). Supporting Efficient Record Linkage for Large Data Sets Using Mapping Techniques. World Wide Web, 9, 557–584.
+Lin, B., Chen, Y., Chen, X., & Yu, Y. (2012). Comparison between JSON and XML in Applications Based on AJAX. 2012 International Conference on Computer Science and Service System, 1174–1177.
+Luna-Reyes, L. F., Gil-Garcia, J. R., & Cruz, C. B. (2007). Collaborative digital government in Mexico: Some lessons from federal Web-based interorganizational information integration initiatives. Government Information Quarterly, 24, 808–826.
+Maeda, K. (2012). Performance evaluation of object serialization libraries in XML, JSON and binary formats. 2012 Second International Conference on Digital Information and Communication Technology and It’s Applications (DICTAP), 177–182.
+May, P. J., & Winter, S. C. (2007). Collaborative service arrangements: Patterns, bases, and perceived consequences. Public Management Review, 9, 479–502.
+McCarthy, J. L. (1982). Metadata management for large statistical databases. Lawrence Berkeley National Laboratory. Presented at the Proceedings of the Eighth International Conference on VERY LARGE DATA BASES, Mexico City, Mexico.
+McCartney, E. A., Craun, K. J., Korris, E., Brostuen, D. A., & Moore, L. R. (2015). Crowdsourcing The National Map. Cartography and Geographic Information Science, 42, 54–57.
+Mendes Calo, K., Cenci, K. M., Fillottrani, P. R., & Estévez, E. C. (2012). Information sharing. Journal of Computer Science & Technology, 12, no. 2. Retrieved from http://hdl.handle.net/10915/19692
+Microsoft Teams. (n.d.). Retrieved May 24, 2020, from https://www.microsoft.com/en-au/microsoft-365/microsoft-teams/group-chat-software
+Miles, M. B., & Huberman, A. M. (1994). Qualitative data analysis: An expanded sourcebook (2nd ed.). Newbury Park, CA: Sage.
+Morgan, L. (2015, July 17). 9 Causes Of Data Misinterpretation. Retrieved June 8, 2020, from InformationWeek website: https://www.informationweek.com/big-data/big-data-analytics/9-causes-of-data-misinterpretation/d/d-id/1321338
+Mutungi, F., Baguma, R., Janowski, T., & University Krems, D. (2019). Towards Digital Anti-Corruption Typology for Public Service Delivery. Proceedings of the 20th Annual International Conference on Digital Government Research, 484–494.
+Nam, T., & Pardo, T. A. (2014). Understanding Municipal Service Integration: An Exploratory Study of 311 Contact Centers. Journal of Urban Technology, 21, 57–78.
+Niswonger, B., Haas, L. M., & Miller, R. J. (2009). Transforming Heterogeneous Data with Database Middleware beyond Integration. Citeseer.
+Nurseitov, N., Paulson, M., Reynolds, R., & Izurieta, C. (2009). Comparison of JSON and XML data interchange formats: A case study. Caine, 9, 157–162.
+O’Hara, K., & Bergin, A. (2009). Information Sharing in Australia’s National Security Community. Australian Strategic Policy Institute. JSTOR.
+Otter. (n.d.). Retrieved May 24, 2020, from Otter Voice Meeting Notes website: https://otter.ai/
+Otter.ai Privacy Policy. (n.d.). Retrieved May 24, 2020, from Blogs—Otter.ai website: https://otter.ai/privacy
+Panian, Z. (2010). Some practical experiences in data governance. World Academy of Science, Engineering and Technology, 62, 939–946.
+Pardo, T. A., & Burke, G. B. (2008). Improving Government Interoperability: A capability framework for government managers. Center for Technology in Government, University of Albany.
+Pardo, T. A., Cresswell, A. M., Dawes, S., & Burke, G. B. (2004). Modeling the social & technical processes of interorganizational information integration. 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of The, 8 pp. Big Island, HI, USA: IEEE.
+Pardo, T. A., Cresswell, A. M., Thompson, F., & Zhang, J. (2006). Knowledge sharing in cross-boundary information system development in the public sector. Information Technology and Management, 7, 293–313.
+Pardo, T. A., Gil-Garcia, J. R., & Burke, G. B. (2008a). Building response capacity through cross-boundary information sharing.
+Pardo, T. A., Gil-Garcia, J. R., & Burke, G. B. (2008b). Governance Structures in Cross-Boundary Information Sharing: Lessons from State and Local Criminal Justice Initiatives. Proceedings of the 41st Annual Hawaii International Conference on System Sciences (HICSS 2008), 211–211. Waikoloa, HI: IEEE.
+Pardo, T. A., Gil-Garcia, J. R., & Burke, G. B. (2008c). Sustainable Cross-Boundary Information Sharing. In H. Chen, L. Brandt, V. Gregg, R. Traunmüller, S. Dawes, E. Hovy, … C. A. Larson (Eds.), Digital Government: E-Government Research, Case Studies, and Implementation (pp. 421–438). Boston, MA: Springer US.
+Pardo, T. A., Gil-Garcia, J. R., & Luna-Reyes, L. F. (2010). Collaborative governance and cross-boundary information sharing: Envisioning a networked and IT-enabled public administration. The Future of Public Administration around the World: The Minnowbrook Perspective, 129–139.
+Pardo, T. A., Nam, T., & Burke, G. B. (2012). E-Government Interoperability: Interaction of Policy, Management, and Technology Dimensions. Social Science Computer Review, 30, 7–23.
+Pennsylvania Justice Network. (n.d.). Retrieved April 16, 2020, from Pennsylvania Justice Network website: https://www.pajnet.pa.gov:443/Pages/default.aspx
+Riley, T. B. (2003). E-government vs. E-governance: Examining the Differences in a Changing Public Sector Climate. International Tracking Survey Report, 3.
+Roadmap [Collection]. (n.d.). Retrieved May 18, 2020, from Digital Transformation Agency website: https://www.dta.gov.au/dts-roadmap
+Rowley, J. (2007). The wisdom hierarchy: Representations of the DIKW hierarchy. Journal of Information Science, 33, 163–180.
+Sangkla, K., & Seresangtakul, P. (2017). Information Integration of Heterogeneous Medical Database Systems Using Metadata. 2017 21st International Computer Science and Engineering Conference (ICSEC), 1–5.
+Sayogo, D. S., Gil-Garcia, J. R., Cronemberger, F. A., & Widagdo, B. (2017). The Mediating Role of Trust for Inter-Organizational Information Sharing (IIS) Success in the Public Sector. Proceedings of the 18th Annual International Conference on Digital Government Research - Dg.o ’17, 426–435. Staten Island, NY, USA: ACM Press.
+Scholl, Hans Jochen, & Klischewski, R. (2007). E-Government Integration and Interoperability: Framing the Research Agenda. International Journal of Public Administration, 30, 889–920.
+Scholl, Hans Jochen, Kubicek, H., Cimander, R., & Klischewski, R. (2012). Process integration, information sharing, and system interoperation in government: A comparative case analysis. Government Information Quarterly, 29, 313–323.
+Schooley, B. L., & Horan, T. A. (2007). Towards end-to-end government performance management: Case study of interorganizational information integration in emergency medical services (EMS). Government Information Quarterly, 24, 755–784.
+Serrano, D., Stroulia, E., Lau, D., & Ng, T. (2017). Linked REST APIs: A Middleware for Semantic REST API Integration. 2017 IEEE International Conference on Web Services (ICWS), 138–145.
+Services of New Brunswick, C. (n.d.). Service New Brunswick, Canada—SNB.CA. Retrieved April 16, 2020, from https://www2.snb.ca/content/snb/en.html
+Siau, K., & Long, Y. (2005). Synthesizing e‐government stage models – a meta‐synthesis based on meta‐ethnography approach. Industrial Management & Data Systems, 105, 443–458.
+Sivarajah, U., Kamal, M. M., Irani, Z., & Weerakkody, V. (2017). Critical analysis of Big Data challenges and analytical methods. Journal of Business Research, 70, 263–286.
+Skype. (n.d.). Retrieved May 24, 2020, from https://www.skype.com/en//
+Sreemathy, J., Nisha, S., Prabha, C., & RM, G. P. (2020). Data Integration in ETL Using TALEND. 2020 6th International Conference on Advanced Computing and Communication Systems (ICACCS), 1444–1448. IEEE.
+Srinivas, K., Gale, A., & Dolby, J. (2018). Merging datasets through deep learning. ArXiv Preprint ArXiv:1809.01604.
+Srivastava, S. C., Teo, T. S., & Devaraj, S. (2016). You Can’t Bribe a Computer: Dealing with the Societal Challenge of Corruption Through ICT. Mis Quarterly, 40, 511–526.
+Tell Us Once [Text]. (n.d.).
+Thomas, M. A., Cipolla, J., Lambert, B., & Carter, L. (2019). Data management maturity assessment of public sector agencies. Government Information Quarterly, 36, 101401.
+van den Broek, T., & van Veenstra, A. F. (2015). Modes of Governance in Inter-Organizational Data Collaborations. ECIS 2015 Completed Research Papers. https://doi.org/10.18151/7217509
+Wall, A. (2018). Security Assurance and the Ethics of Background Checks. ITNOW, 60, 40–41.
+Welch, E. W., Feeney, M. K., & Park, C. H. (2016). Determinants of data sharing in U.S. city governments. Government Information Quarterly, 33, 393–403.
+Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018.
+Willem, A., & Buelens, M. (2007). Knowledge Sharing in Public Sector Organizations: The Effect of Organizational Characteristics on Interdepartmental Knowledge Sharing. Journal of Public Administration Research and Theory: J-PART, 17, 581–606.
+Yang, T.-M. (2012). The complexity of cross-boundary information sharing: An organizational perspective on Taiwan e-government. Proceedings of the 6th International Conference on Theory and Practice of Electronic Governance, 143–145. Albany, New York, USA: Association for Computing Machinery.
+Yang, T.-M., & Maxwell, T. A. (2011). Information-sharing in public organizations: A literature review of interpersonal, intra-organizational and inter-organizational success factors. Government Information Quarterly, 28, 164–175.
+Yang, T.-M., & Wu, Y.-J. (2014). Exploring the determinants of cross-boundary information sharing in the public sector: An e-Government case study in Taiwan. Journal of Information Science, 40, 649–668.
+Yang, T.-M., Zheng, L., & Pardo, T. A. (2012). The boundaries of information sharing and integration: A case study of Taiwan e-Government. Government Information Quarterly, 29, S51–S60.
+Zhang, R., Liu, L., & Xue, R. (2014). Role-based and time-bound access and management of EHR data. Security and Communication Networks, 7, 994–1015.
+Zheng, L., Yang, T.-M., Pardo, T. A., & Jiang, Y. (2009). Understanding the “boundary” in information sharing and integration. 2009 42nd Hawaii International Conference on System Sciences, 1–10. IEEE.
+Zhong, J., Bertok, P., & Tari, Z. (2010). Security, Privacy and Interoperability in Heterogeneous Systems. In L. M. Camarinha-Matos, X. Boucher, & H. Afsarmanesh (Eds.), Collaborative Networks for a Sustainable World (pp. 713–721). Berlin, Heidelberg: Springer.
+Zoom. (n.d.). Retrieved May 24, 2020, from Zoom Video website: https://zoom.us/
